@@ -1,0 +1,121 @@
+D:\SortingAlgorithms\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe.config
+D:\SortingAlgorithms\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe
+D:\SortingAlgorithms\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.pdb
+D:\SortingAlgorithms\SortingAlgorithmsGUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+D:\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmIntroduct.resources
+D:\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.Properties.Resources.resources
+D:\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csproj.GenerateResource.Cache
+D:\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.exe
+D:\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.pdb
+D:\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmExcecutors.resources
+D:\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userLecturers.resources
+D:\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userStudents.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe.config
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.exe
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmExcecutors.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmIntroduct.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.Properties.Resources.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userLecturers.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userStudents.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csproj.GenerateResource.Cache
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe.config
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.exe
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csprojResolveAssemblyReference.cache
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmExcecutors.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmIntroduct.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.Properties.Resources.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userLecturers.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userStudents.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csproj.GenerateResource.Cache
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe.config
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.exe
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csprojResolveAssemblyReference.cache
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmExcecutors.resources
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmIntroduct.resources
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.Properties.Resources.resources
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userLecturers.resources
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userStudents.resources
+C:\Users\Percy\Downloads\DALTTQ-master\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csproj.GenerateResource.Cache
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe.config
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.exe
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csprojResolveAssemblyReference.cache
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmExcecutors.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmIntroduct.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.Properties.Resources.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userLecturers.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userStudents.resources
+C:\Users\Kaitou Kid\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csproj.GenerateResource.Cache
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe.config
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.exe
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csprojResolveAssemblyReference.cache
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmExcecutors.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmIntroduct.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.Properties.Resources.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userLecturers.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userStudents.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csproj.GenerateResource.Cache
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe.config
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.exe
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmExcecutors.resources
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmIntroduct.resources
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.Properties.Resources.resources
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userLecturers.resources
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userStudents.resources
+C:\Users\Percy\Desktop\DALTTQ\ARCHIVE\BanGanFull\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csproj.GenerateResource.Cache
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe.config
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.exe
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csprojResolveAssemblyReference.cache
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmExcecutors.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmIntroduct.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.Properties.Resources.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userLecturers.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userStudents.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csproj.GenerateResource.Cache
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe.config
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.exe
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.exe
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\SortingAlgorithmsGUI.pdb
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csprojResolveAssemblyReference.cache
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.Help.resources
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.Properties.Resources.resources
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userLecturers.resources
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userStudents.resources
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.csproj.GenerateResource.Cache

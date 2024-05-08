@@ -1,0 +1,141 @@
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\MoPhongThuatToanSapXep.exe.config
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\MoPhongThuatToanSapXep.csprojResolveAssemblyReference.cache
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\SortingAlgorithmsGUI.Help.resources
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\MoPhongThuatToanSapXep.Properties.Resources.resources
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userLecturers.resources
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\ApplicationsGUI.userStudents.resources
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\MoPhongThuatToanSapXep.csproj.GenerateResource.Cache
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\MoPhongThuatToanSapXep.exe
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\bin\Debug\MoPhongThuatToanSapXep.pdb
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\MoPhongThuatToanSapXep.exe
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\SortingAlgorithmsGUI\obj\Debug\MoPhongThuatToanSapXep.pdb
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe.config
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.exe
+C:\Users\thuha\Downloads\DALTTQ-master\ARCHIVE\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.pdb
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe.config
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.pdb
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csprojAssemblyReference.cache
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Help.resources
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.Properties.Resources.resources
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Thongtin.resources
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.GenerateResource.cache
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CoreCompileInputs.cache
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CopyComplete
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.exe
+D:\c#\SORTSEARCH_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.pdb
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe.config
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.pdb
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csprojAssemblyReference.cache
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Help.resources
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.Properties.Resources.resources
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Thongtin.resources
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.GenerateResource.cache
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CoreCompileInputs.cache
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CopyComplete
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.exe
+D:\c#\DOAN_CTDL_QT_1\MoPhongThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.pdb
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe.config
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.pdb
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csprojAssemblyReference.cache
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Help.resources
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.Properties.Resources.resources
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Thongtin.resources
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.GenerateResource.cache
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CoreCompileInputs.cache
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CopyComplete
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.exe
+D:\c#\DOAN_CTDL_MienThi_Nhom01\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.pdb
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe.config
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.pdb
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csprojAssemblyReference.cache
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Help.resources
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.Properties.Resources.resources
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Thongtin.resources
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.GenerateResource.cache
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CoreCompileInputs.cache
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CopyComplete
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.exe
+D:\CTDL_GT\DOAN_CTDL_MienThi_Nhom01\SourceCode_demo\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.pdb
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe.config
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.pdb
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.AssemblyReference.cache
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Help.resources
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.Properties.Resources.resources
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.GenerateResource.cache
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CoreCompileInputs.cache
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CopyComplete
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.exe
+E:\HK1_2021-2022\thực tập cơ sở\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.pdb
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe.config
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.pdb
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.AssemblyReference.cache
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.SuggestedBindingRedirects.cache
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Help.resources
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.Properties.Resources.resources
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.GenerateResource.cache
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CoreCompileInputs.cache
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CopyComplete
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.exe
+E:\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.pdb
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.AssemblyReference.cache
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.SuggestedBindingRedirects.cache
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmByHand.resources
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Help.resources
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.Properties.Resources.resources
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.GenerateResource.cache
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CoreCompileInputs.cache
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.exe
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.pdb
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe.config
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.pdb
+E:\thuctap\thuctapcoso\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CopyComplete
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe.config
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.pdb
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.AssemblyReference.cache
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.SuggestedBindingRedirects.cache
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Help.resources
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.Properties.Resources.resources
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.GenerateResource.cache
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CoreCompileInputs.cache
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CopyComplete
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.exe
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.pdb
+E:\ttcs_2022\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Form1.resources
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe.config
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.exe
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\bin\Debug\MoPhongThuatToanSapXep.pdb
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.AssemblyReference.cache
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.SuggestedBindingRedirects.cache
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.frmApplication.resources
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Form1.resources
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\SortingAlgorithmsGUI.Help.resources
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.Properties.Resources.resources
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.GenerateResource.cache
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CoreCompileInputs.cache
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.csproj.CopyComplete
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.exe
+E:\ttcs_2022\1\demoThuatToanSapXep\MoPhongThuatToanSapXep\obj\Debug\MoPhongThuatToanSapXep.pdb

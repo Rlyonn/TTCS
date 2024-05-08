@@ -1,0 +1,37 @@
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\bin\Release\SortingAlgorithmsGUI.exe.config
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.csprojResolveAssemblyReference.cache
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.frmApplication.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.frmExcecutors.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.frmIntroduct.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.Properties.Resources.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Release\ApplicationsGUI.userLecturers.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Release\ApplicationsGUI.userStudents.resources
+C:\Users\Percy\Downloads\SortingAlgorithms\SortingAlgorithms\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.csproj.GenerateResource.Cache
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\bin\Release\SortingAlgorithmsGUI.exe.config
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.frmApplication.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.frmByHand.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.frmExcecutors.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.frmIntroduct.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.Properties.Resources.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\ApplicationsGUI.userLecturers.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\ApplicationsGUI.userStudents.resources
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.csproj.GenerateResource.Cache
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\bin\Release\SortingAlgorithmsGUI.exe
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\bin\Release\SortingAlgorithmsGUI.pdb
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.exe
+C:\Users\tuanlocstore.vn\Desktop\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.pdb
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\bin\Release\SortingAlgorithmsGUI.exe.config
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\bin\Release\SortingAlgorithmsGUI.exe
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\bin\Release\SortingAlgorithmsGUI.pdb
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.frmApplication.resources
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.frmByHand.resources
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.frmExcecutors.resources
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.frmIntroduct.resources
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.Properties.Resources.resources
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\ApplicationsGUI.userLecturers.resources
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\ApplicationsGUI.userStudents.resources
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.csproj.GenerateResource.Cache
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.exe
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.pdb
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.csprojResolveAssemblyReference.cache
+C:\Users\Kaitou Kid\Downloads\DALTTQ\ARCHIVE\SortingAlgorithmsGUI\obj\Release\SortingAlgorithmsGUI.Help.resources
